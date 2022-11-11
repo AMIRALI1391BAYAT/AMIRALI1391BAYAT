@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AMIRALI1391BAYAT
+- 👋 Hi, I’m Amirali bayat
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Redbear company
